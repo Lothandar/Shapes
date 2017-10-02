@@ -13,6 +13,12 @@ namespace shapes
             this.baseLength = 1;
         }
 
+        public Triangle(double height,double baseLength)
+        {
+            this.height = height;
+            this.baseLength = baseLength;
+        }
+
         public double Height
         {
             get 
@@ -43,6 +49,11 @@ namespace shapes
                 }
                 baseLength = value;
             }
+        }
+
+        public double GetPerimeter()
+        {
+            return (Math.Sqrt(Math.Pow((baseLength * 0.5), 2) + Math.Pow(height,2)))*2 + baseLength ;
         }
         public double GetArea()
         {
