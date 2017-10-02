@@ -1,0 +1,10 @@
+C:\Users\guillaume\desktop\year2\OOP\shapes\bin\Debug\netcoreapp2.0\shapes.deps.json
+C:\Users\guillaume\desktop\year2\OOP\shapes\bin\Debug\netcoreapp2.0\shapes.runtimeconfig.json
+C:\Users\guillaume\desktop\year2\OOP\shapes\bin\Debug\netcoreapp2.0\shapes.runtimeconfig.dev.json
+C:\Users\guillaume\desktop\year2\OOP\shapes\bin\Debug\netcoreapp2.0\shapes.dll
+C:\Users\guillaume\desktop\year2\OOP\shapes\bin\Debug\netcoreapp2.0\shapes.pdb
+C:\Users\guillaume\desktop\year2\OOP\shapes\obj\Debug\netcoreapp2.0\shapes.csproj.CoreCompileInputs.cache
+C:\Users\guillaume\desktop\year2\OOP\shapes\obj\Debug\netcoreapp2.0\shapes.AssemblyInfoInputs.cache
+C:\Users\guillaume\desktop\year2\OOP\shapes\obj\Debug\netcoreapp2.0\shapes.AssemblyInfo.cs
+C:\Users\guillaume\desktop\year2\OOP\shapes\obj\Debug\netcoreapp2.0\shapes.dll
+C:\Users\guillaume\desktop\year2\OOP\shapes\obj\Debug\netcoreapp2.0\shapes.pdb
